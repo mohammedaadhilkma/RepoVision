@@ -1,6 +1,6 @@
-# RepoVision – GitHub Repository Explainer AI
-
 <div align="center">
+
+# RepoVision – GitHub Repository Explainer AI
 
 ![RepoVision Banner](https://img.shields.io/badge/RepoVision-AI%20Powered-blue?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Features
+<h2 align="center">🎯 Features</h2>
 
 - 🔍 **Deep Repo Analysis** – Languages, frameworks, databases, dependencies
 - 🤖 **AI-Powered Insights** – Powered by Ollama (Mistral/Llama3) running locally
@@ -28,7 +28,7 @@
 
 ---
 
-## 🏗️ Architecture
+<h2 align="center">🏗️ Architecture</h2>
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 | Layer | Technology |
 |-------|-----------|
@@ -69,7 +69,7 @@
 
 ---
 
-## 🚀 Quick Start
+<h2 align="center">🚀 Quick Start</h2>
 
 ### Prerequisites
 
@@ -138,7 +138,7 @@ Frontend will be available at: `http://localhost:5173`
 
 ---
 
-## ⚙️ Environment Variables
+<h2 align="center">⚙️ Environment Variables</h2>
 
 ### Backend (`backend/.env`)
 
@@ -157,7 +157,7 @@ Frontend will be available at: `http://localhost:5173`
 
 ---
 
-## 🌍 Deployment (Free Tier)
+<h2 align="center">🌍 Deployment (Free Tier)</h2>
 
 ### Frontend → Vercel
 
@@ -180,7 +180,7 @@ npm run build
 
 ---
 
-## 📁 Project Structure
+<h2 align="center">📁 Project Structure</h2>
 
 ```
 repovision/
@@ -222,7 +222,7 @@ repovision/
 
 ---
 
-## 🔮 Future Improvements
+<h2 align="center">🔮 Future Improvements</h2>
 
 - [ ] Support private repositories (GitHub token auth)
 - [ ] Real-time streaming analysis with WebSockets
@@ -235,7 +235,7 @@ repovision/
 
 ---
 
-## 📄 License
+<h2 align="center">📄 License</h2>
 
 MIT License – free to use, modify, and distribute.
 
@@ -243,7 +243,5 @@ MIT License – free to use, modify, and distribute.
 
 <div align="center">
 Built with ❤️ using FastAPI, React, and Ollama
-</div>
-#   R e p o V i s i o n  
- #   R e p o V i s i o n  
+</div>#   R e p o V i s i o n  
  
