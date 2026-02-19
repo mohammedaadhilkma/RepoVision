@@ -244,6 +244,8 @@ MIT License – free to use, modify, and distribute.
 <div align="center">
 Built with ❤️ using FastAPI, React, and Ollama
 </div>
-#   R e p o V i s i o n  
- #   R e p o V i s i o n  
+#   R e p o V i s i o n 
+ 
+ #   R e p o V i s i o n 
+ 
  
